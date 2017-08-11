@@ -1,0 +1,20 @@
+
+### requirements-docs.txt
+
+sphinx
+#-e hg+https://hg@bitbucket.org/birkenfeld/sphinx#egg=sphinx
+
+#sphinxcontrib-srclinks
+-e git+https://github.com/westurner/sphinxcontrib-srclinks#egg=sphinxcontrib-srclinks
+
+#-e git+https://github.com/gniezen/n3pygments#egg=n3pygments
+
+#sphinxjp.themes.basicstrap
+#-e git+https://github.com/tell-k/sphinxjp.themes.basicstrap@7a5b36d1deeb#egg=sphinxjp.themes.basicstrap
+-e git+https://github.com/westurner/sphinxjp.themes.basicstrap#egg=sphinxjp.themes.basicstrap
+
+ghp-import
+#-e git+https://github.com/davisp/ghp-import#egg=ghp-import
+
+#pygments-markdown-lexer
+#-e git+https://github.com/jhermann/pygments-markdown-lexer#egg=pygments-markdown-lexer
