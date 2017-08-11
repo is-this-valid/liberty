@@ -9,7 +9,7 @@ Liberty
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 10
 
    liberty
 
