@@ -1,10 +1,10 @@
 
 
-.. index:: Here
-.. _here:
+.. index:: Liberty
+.. _liberty:
 
 ########
-Here
+Liberty
 ########
 
 
@@ -92,7 +92,7 @@ Life
 
 
 .. index:: Liberty
-.. _liberty:
+.. _liberty_:
 
 Liberty
 -----------
